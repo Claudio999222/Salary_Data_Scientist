@@ -9,4 +9,4 @@
 *   _graphs to visualize correlations between wages, remote work, years, etc_
 *   _Salary differences between different jobs(MI) in Germany in 2022_
 *   _differences between wages and level of experience Germany 2022_
-*   _Propensity for larger wages on small, medium and large companies_
+*   _Propensity for larger wages on small, medium and large companies
